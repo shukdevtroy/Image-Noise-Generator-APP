@@ -88,7 +88,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please open an issue on the GitHub repository or contact [shukdevdatta@gmail.com](mailto:shukdevdatta@gmail.com).
+- **Email Link**: The `[shukdevdatta@gmail.com](mailto:shukdevdatta@gmail.com?subject=Question%20or%20Feedback%20about%20Image%20Noise%20App)` part creates a clickable email link that opens a new email draft in the user's default email client with the recipient set to your email address.
+- **Subject Line**: The `?subject=Question%20or%20Feedback%20about%20Image%20Noise%20App` portion of the URL pre-fills the subject line of the email, which can help you quickly categorize emails related to this project.
 
 ---
 
