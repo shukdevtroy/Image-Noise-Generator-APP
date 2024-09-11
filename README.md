@@ -28,11 +28,11 @@ The **Image Noise App** is a Python application built using the Tkinter library 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/imagenoiseapp.git
+   git clone https://github.com/shukdevtroy/Image-Noise-Generator-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd imagenoiseapp
+   cd Image-Noise-Generator-App
    ```
 3. Install the required Python packages:
    ```bash
@@ -43,7 +43,7 @@ The **Image Noise App** is a Python application built using the Tkinter library 
 
 1. Run the application:
    ```bash
-   python image_noise_app.py
+   python gen3_local.py
    ```
 2. Use the buttons on the left side of the window to interact with the application:
    - **Load Images**: Select images from your file system to load into the application.
@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please open an issue on the GitHub repository or contact [your email].
+For questions or feedback, please open an issue on the GitHub repository or contact [your.email@example.com](mailto:shukdevdatta@gmail.com).
 
 ---
 
