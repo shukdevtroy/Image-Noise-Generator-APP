@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please open an issue on the GitHub repository or contact [your.email@example.com](mailto:shukdevdatta@gmail.com).
+For questions or feedback, please open an issue on the GitHub repository or contact [shukdevdatta@gmail.com](mailto:shukdevdatta@gmail.com).
 
 ---
 
